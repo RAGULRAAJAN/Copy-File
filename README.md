@@ -24,10 +24,10 @@ Increase the maximum number of rows to display the entire DataFrame
 End the program.
 
 ## PROGRAM:
-```
+```C
 To write a python program for reading content from a CSV file.
-Developed by: T. Gayathri
-Register Number: 212223100007
+Developed by:RAGUL RAAJAN T
+Register Number: 212223100043
 
 import pandas as pd
 df = pd.read_csv('nba.csv')
